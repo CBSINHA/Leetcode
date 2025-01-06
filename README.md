@@ -3,4 +3,4 @@
 
 *This repo is for all my Leetcode Solutions! :)*
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=cbsinha&label=Profile%20views&color=b40e0e&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemegenerator%2FCute-Cat&psig=AOvVaw3pa-q8ot62Uk81dLnKumYq&ust=1736274571794000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCxqPvc4YoDFQAAAAAdAAAAABAE)" alt="cbsinha" /> </p>
+<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcat-meme&psig=AOvVaw33OXFkcygO5OBkdgwbJFHU&ust=1736274684906000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDcyLHd4YoDFQAAAAAdAAAAABAK" alt="cbsinha" /> </p>
