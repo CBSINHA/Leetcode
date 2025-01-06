@@ -1,4 +1,4 @@
 # Leetcode
-![*Insert random cat pic*](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcats-shocked&psig=AOvVaw3zX3AGKF1GtG_bgUBwXv8v&ust=1736275086966000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiDsfHe4YoDFQAAAAAdAAAAABAE)
+![*Insert random cat pic*](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRvNmFtNWJ4YnpjYjUyZHl5enoyM3VndzJheXU2YWRuZWhjcmt1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PUBxelwT57jsQ/200.webp)
 
 *This repo is for all my Leetcode Solutions! :)*
