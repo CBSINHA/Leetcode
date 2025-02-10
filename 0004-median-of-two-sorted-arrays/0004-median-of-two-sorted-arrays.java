@@ -11,7 +11,7 @@ class Solution {
         double median=0;
         int size=arr.size();
         if(size%2==0) median=(arr.get(size/2)+arr.get((size/2)-1))/2.0;
-        else if(size%2!=0) median=arr.get(size/2);
+        else median=arr.get(size/2);
         return median;
     }
 }
