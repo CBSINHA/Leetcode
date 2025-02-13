@@ -6,14 +6,15 @@ class Solution {
         negative=true;}
         StringBuilder sb=new StringBuilder();
         sb.append(x);
-        int left=0,right=sb.length()-1;
-        while(left<right){
-            char temp=sb.charAt(left);
-            sb.setCharAt(left,sb.charAt(right));
-            sb.setCharAt(right,temp);
-            left++;
-            right--;
-        }
+        sb.reverse();
+        // int left=0,right=sb.length()-1;
+        // while(left<right){
+        //     char temp=sb.charAt(left);
+        //     sb.setCharAt(left,sb.charAt(right));
+        //     sb.setCharAt(right,temp);
+        //     left++;
+        //     right--;
+        // }
         x=Integer.valueOf(sb.toString());
         if(negative==true)return x*-1;
         else
